@@ -1,0 +1,5883 @@
+<?xml version="1.0"?>
+<gpx version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd">
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-85dBm
+Quality  10%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:35</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-56dBm
+Quality  87%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:35</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-56</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>87</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-45dBm
+Quality  87%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:35</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-45</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>87</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-81dBm
+Quality  18%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:35</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-81</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>18</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPnet [00:0C:DB:8B:1C:10]</name>
+    <cmt>0</cmt>
+    <desc>USPnet
+[00:0C:DB:8B:1C:10]
+None
+RSSI  :-87dBm
+Quality  6%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:35</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:0C:DB:8B:1C:10</MAC>
+      <SSID>USPnet</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-56dBm
+Quality  81%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:35</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-56</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>81</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>0</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-84dBm
+Quality  12%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:35</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-68dBm
+Quality  60%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:35</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-68</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>60</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>net [AA:3B:9F:9B:5C:9F]</name>
+    <cmt>0</cmt>
+    <desc>net
+[AA:3B:9F:9B:5C:9F]
+WEP
+RSSI  :-88dBm
+Quality  4%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:35</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>AA:3B:9F:9B:5C:9F</MAC>
+      <SSID>net</SSID>
+      <RSSI>-88</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>4</signalQuality>
+      <networkType>Independent</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-43dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-43</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-57dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-57</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-83dBm
+Quality  14%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-83</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>14</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-61dBm
+Quality  74%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-61</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>74</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:14:A9:C8:DB:40]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:14:A9:C8:DB:40]
+None
+RSSI  :-86dBm
+Quality  88%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:14:A9:C8:DB:40</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:22:B0:56:33:4B]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:22:B0:56:33:4B]
+None
+RSSI  :-89dBm
+Quality  88%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:22:B0:56:33:4B</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-89</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>net [AA:3B:9F:9B:5C:9F]</name>
+    <cmt>0</cmt>
+    <desc>net
+[AA:3B:9F:9B:5C:9F]
+WEP
+RSSI  :-80dBm
+Quality  20%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>AA:3B:9F:9B:5C:9F</MAC>
+      <SSID>net</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Independent</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-72dBm
+Quality  36%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-43dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-43</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-60dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-60</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-82dBm
+Quality  16%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-82</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>16</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-86dBm
+Quality  8%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>8</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-59dBm
+Quality  78%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-59</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>78</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:14:A9:C8:DB:40]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:14:A9:C8:DB:40]
+None
+RSSI  :-87dBm
+Quality  88%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:14:A9:C8:DB:40</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-71dBm
+Quality  38%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:36</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-44dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:37</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-44</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-70dBm
+Quality  40%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:37</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-86dBm
+Quality  8%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:37</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>8</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-57dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:37</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-57</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-85dBm
+Quality  10%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:37</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-59dBm
+Quality  78%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:37</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-59</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>78</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:14:A9:C8:DB:40]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:14:A9:C8:DB:40]
+None
+RSSI  :-83dBm
+Quality  88%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:37</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:14:A9:C8:DB:40</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-83</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-44dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-44</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-58dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-58</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-87dBm
+Quality  6%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LADI [00:1C:F0:89:AF:89]</name>
+    <cmt>0</cmt>
+    <desc>LADI
+[00:1C:F0:89:AF:89]
+None
+RSSI  :-88dBm
+Quality  4%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:89:AF:89</MAC>
+      <SSID>LADI</SSID>
+      <RSSI>-88</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>4</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-58dBm
+Quality  80%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-58</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>80</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>net [AA:3B:9F:9B:5C:9F]</name>
+    <cmt>0</cmt>
+    <desc>net
+[AA:3B:9F:9B:5C:9F]
+WEP
+RSSI  :-81dBm
+Quality  18%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>AA:3B:9F:9B:5C:9F</MAC>
+      <SSID>net</SSID>
+      <RSSI>-81</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>18</signalQuality>
+      <networkType>Independent</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:14:A9:C8:DB:40]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:14:A9:C8:DB:40]
+None
+RSSI  :-89dBm
+Quality  88%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:14:A9:C8:DB:40</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-89</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-77dBm
+Quality  26%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-77</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>26</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-48dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-48</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-62dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-62</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-82dBm
+Quality  16%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-82</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>16</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-82dBm
+Quality  16%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-82</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>16</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LADI [00:1C:F0:89:AF:89]</name>
+    <cmt>0</cmt>
+    <desc>LADI
+[00:1C:F0:89:AF:89]
+None
+RSSI  :-88dBm
+Quality  4%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:89:AF:89</MAC>
+      <SSID>LADI</SSID>
+      <RSSI>-88</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>4</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-62dBm
+Quality  72%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-62</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>72</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>net [AA:3B:9F:9B:5C:9F]</name>
+    <cmt>0</cmt>
+    <desc>net
+[AA:3B:9F:9B:5C:9F]
+WEP
+RSSI  :-80dBm
+Quality  20%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>AA:3B:9F:9B:5C:9F</MAC>
+      <SSID>net</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Independent</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:14:A9:C8:DB:40]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:14:A9:C8:DB:40]
+None
+RSSI  :-87dBm
+Quality  88%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:14:A9:C8:DB:40</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-70dBm
+Quality  40%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:38</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-47dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-47</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-57dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-57</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-87dBm
+Quality  6%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-59dBm
+Quality  78%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-59</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>78</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-75dBm
+Quality  30%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-75</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>30</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-47dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-47</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-60dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-60</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-59dBm
+Quality  78%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-59</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>78</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>net [AA:3B:9F:9B:5C:9F]</name>
+    <cmt>0</cmt>
+    <desc>net
+[AA:3B:9F:9B:5C:9F]
+WEP
+RSSI  :-80dBm
+Quality  20%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>AA:3B:9F:9B:5C:9F</MAC>
+      <SSID>net</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Independent</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:14:A9:C8:DB:40]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:14:A9:C8:DB:40]
+None
+RSSI  :-88dBm
+Quality  88%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:14:A9:C8:DB:40</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-88</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-70dBm
+Quality  40%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:39</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-48dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:40</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-48</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-57dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:40</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-57</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-80dBm
+Quality  20%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:40</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-56dBm
+Quality  81%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:40</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-56</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>81</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:22:B0:56:33:4B]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:22:B0:56:33:4B]
+None
+RSSI  :-88dBm
+Quality  88%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:40</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:22:B0:56:33:4B</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-88</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>net [AA:3B:9F:9B:5C:9F]</name>
+    <cmt>0</cmt>
+    <desc>net
+[AA:3B:9F:9B:5C:9F]
+WEP
+RSSI  :-80dBm
+Quality  20%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:40</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>AA:3B:9F:9B:5C:9F</MAC>
+      <SSID>net</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Independent</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-68dBm
+Quality  60%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:40</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-68</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>60</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-55dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-55</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-59dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-59</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-87dBm
+Quality  6%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-57dBm
+Quality  80%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-57</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>80</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-73dBm
+Quality  34%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-73</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>34</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>net [AA:3B:9F:9B:5C:9F]</name>
+    <cmt>0</cmt>
+    <desc>net
+[AA:3B:9F:9B:5C:9F]
+WEP
+RSSI  :-81dBm
+Quality  18%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>AA:3B:9F:9B:5C:9F</MAC>
+      <SSID>net</SSID>
+      <RSSI>-81</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>18</signalQuality>
+      <networkType>Independent</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>D7-SCWBB07-02 [00:02:2D:AA:A6:F9]</name>
+    <cmt>0</cmt>
+    <desc>D7-SCWBB07-02
+[00:02:2D:AA:A6:F9]
+None
+RSSI  :-89dBm
+Quality  2%
+Channel 9
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:02:2D:AA:A6:F9</MAC>
+      <SSID>D7-SCWBB07-02</SSID>
+      <RSSI>-89</RSSI>
+      <ChannelID>9</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>2</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-40dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-40</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-51dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-51</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-80dBm
+Quality  20%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LADI [00:1C:F0:89:AF:89]</name>
+    <cmt>0</cmt>
+    <desc>LADI
+[00:1C:F0:89:AF:89]
+None
+RSSI  :-90dBm
+Quality  0%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:89:AF:89</MAC>
+      <SSID>LADI</SSID>
+      <RSSI>-90</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>0</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-60dBm
+Quality  76%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-60</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>76</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-66dBm
+Quality  64%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:41</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-66</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>64</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-43dBm
+Quality  88%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:42</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-43</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-55dBm
+Quality  88%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:42</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-55</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>88</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-79dBm
+Quality  22%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:42</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-79</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>22</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-69dBm
+Quality  50%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:42</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>50</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-61dBm
+Quality  74%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:42</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-61</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>74</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-43dBm
+Quality  90%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-43</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-57dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-57</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-83dBm
+Quality  14%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-83</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>14</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-68dBm
+Quality  60%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-68</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>60</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>0</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-85dBm
+Quality  10%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-62dBm
+Quality  72%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-62</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>72</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-41dBm
+Quality  90%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-41</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-76dBm
+Quality  28%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-76</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>28</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-63dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-63</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-79dBm
+Quality  22%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-79</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>22</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-69dBm
+Quality  50%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>50</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>net [AA:3B:9F:9B:5C:9F]</name>
+    <cmt>0</cmt>
+    <desc>net
+[AA:3B:9F:9B:5C:9F]
+WEP
+RSSI  :-78dBm
+Quality  24%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>AA:3B:9F:9B:5C:9F</MAC>
+      <SSID>net</SSID>
+      <RSSI>-78</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>24</signalQuality>
+      <networkType>Independent</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-57dBm
+Quality  80%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:43</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-57</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>80</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-29dBm
+Quality  90%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:44</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-29</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-67dBm
+Quality  62%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:44</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-67</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>62</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-68dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:44</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-68</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-72dBm
+Quality  36%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:44</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-32dBm
+Quality  90%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:44</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-32</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-61dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:44</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-61</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-77dBm
+Quality  26%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:44</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-77</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>26</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-72dBm
+Quality  36%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:44</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-73dBm
+Quality  34%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:44</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-73</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>34</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-34dBm
+Quality  90%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:45</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-34</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-76dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:45</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-76</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-82dBm
+Quality  16%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:45</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-82</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>16</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-61dBm
+Quality  74%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:45</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-61</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>74</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-62dBm
+Quality  72%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:45</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-62</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>72</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-28dBm
+Quality  90%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-28</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-59dBm
+Quality  78%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-59</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>78</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-83dBm
+Quality  14%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-83</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>14</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-75dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-75</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-74dBm
+Quality  32%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-74</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>32</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>net [AA:3B:9F:9B:5C:9F]</name>
+    <cmt>0</cmt>
+    <desc>net
+[AA:3B:9F:9B:5C:9F]
+WEP
+RSSI  :-86dBm
+Quality  8%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>AA:3B:9F:9B:5C:9F</MAC>
+      <SSID>net</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>8</signalQuality>
+      <networkType>Independent</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-29dBm
+Quality  90%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-29</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-80dBm
+Quality  20%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-71dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-79dBm
+Quality  22%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-79</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>22</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-68dBm
+Quality  60%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-68</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>60</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-61dBm
+Quality  74%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-61</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>74</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>net [AA:3B:9F:9B:5C:9F]</name>
+    <cmt>0</cmt>
+    <desc>net
+[AA:3B:9F:9B:5C:9F]
+WEP
+RSSI  :-77dBm
+Quality  26%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:46</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>AA:3B:9F:9B:5C:9F</MAC>
+      <SSID>net</SSID>
+      <RSSI>-77</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>26</signalQuality>
+      <networkType>Independent</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-23dBm
+Quality  90%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:47</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-23</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-76dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:47</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-76</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-77dBm
+Quality  26%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:47</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-77</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>26</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-69dBm
+Quality  50%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:47</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>50</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-70dBm
+Quality  40%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:47</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-63dBm
+Quality  70%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:47</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-63</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>70</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-34dBm
+Quality  90%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-34</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-69dBm
+Quality  50%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>50</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-72dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-82dBm
+Quality  16%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-82</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>16</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-69dBm
+Quality  50%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>50</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-62dBm
+Quality  72%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-62</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>72</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-28dBm
+Quality  90%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-28</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-73dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-73</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-84dBm
+Quality  12%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-71dBm
+Quality  38%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:84]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:84]
+None
+RSSI  :-86dBm
+Quality  90%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:84</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>90</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LADI [00:1C:F0:89:AF:89]</name>
+    <cmt>0</cmt>
+    <desc>LADI
+[00:1C:F0:89:AF:89]
+None
+RSSI  :-79dBm
+Quality  22%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:89:AF:89</MAC>
+      <SSID>LADI</SSID>
+      <RSSI>-79</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>22</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-63dBm
+Quality  70%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-63</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>70</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-48dBm
+Quality  87%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:48</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-48</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>87</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-44dBm
+Quality  97%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-44</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-61dBm
+Quality  74%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-61</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>74</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-72dBm
+Quality  97%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-84dBm
+Quality  12%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LADI [00:1C:F0:89:AF:89]</name>
+    <cmt>0</cmt>
+    <desc>LADI
+[00:1C:F0:89:AF:89]
+None
+RSSI  :-84dBm
+Quality  12%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:89:AF:89</MAC>
+      <SSID>LADI</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-71dBm
+Quality  38%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC_SM [00:11:95:F5:BA:95]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC_SM
+[00:11:95:F5:BA:95]
+None
+RSSI  :-86dBm
+Quality  8%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:95</MAC>
+      <SSID>USPNetCISC_SM</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>8</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-62dBm
+Quality  72%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-62</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>72</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-41dBm
+Quality  97%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-41</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-65dBm
+Quality  66%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-65</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>66</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-78dBm
+Quality  24%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-78</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>24</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-87dBm
+Quality  97%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LADI [00:1C:F0:89:AF:89]</name>
+    <cmt>0</cmt>
+    <desc>LADI
+[00:1C:F0:89:AF:89]
+None
+RSSI  :-72dBm
+Quality  36%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:89:AF:89</MAC>
+      <SSID>LADI</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-69dBm
+Quality  50%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>50</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>0</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-82dBm
+Quality  16%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-82</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>16</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC_SM [00:11:95:F5:BA:95]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC_SM
+[00:11:95:F5:BA:95]
+None
+RSSI  :-86dBm
+Quality  8%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:95</MAC>
+      <SSID>USPNetCISC_SM</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>8</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-58dBm
+Quality  80%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:49</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-58</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>80</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-38dBm
+Quality  97%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:50</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-38</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-57dBm
+Quality  80%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:50</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-57</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>80</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-68dBm
+Quality  60%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:50</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-68</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>60</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-80dBm
+Quality  20%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:50</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-78dBm
+Quality  97%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:50</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-78</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LADI [00:1C:F0:89:AF:89]</name>
+    <cmt>0</cmt>
+    <desc>LADI
+[00:1C:F0:89:AF:89]
+None
+RSSI  :-73dBm
+Quality  34%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:50</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:89:AF:89</MAC>
+      <SSID>LADI</SSID>
+      <RSSI>-73</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>34</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPnet [00:0C:DB:8B:1C:10]</name>
+    <cmt>0</cmt>
+    <desc>USPnet
+[00:0C:DB:8B:1C:10]
+None
+RSSI  :-89dBm
+Quality  2%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:50</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:0C:DB:8B:1C:10</MAC>
+      <SSID>USPnet</SSID>
+      <RSSI>-89</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>2</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-71dBm
+Quality  38%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:50</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>D7-SCWBB07-02 [00:02:2D:AA:A6:F9]</name>
+    <cmt>0</cmt>
+    <desc>D7-SCWBB07-02
+[00:02:2D:AA:A6:F9]
+None
+RSSI  :-88dBm
+Quality  4%
+Channel 9
+Speed (kph) 0
+10/08/2010 09:12:50</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:02:2D:AA:A6:F9</MAC>
+      <SSID>D7-SCWBB07-02</SSID>
+      <RSSI>-88</RSSI>
+      <ChannelID>9</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>4</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-57dBm
+Quality  97%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-57</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-55dBm
+Quality  82%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-55</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>82</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-80dBm
+Quality  20%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-87dBm
+Quality  97%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LADI [00:1C:F0:89:AF:89]</name>
+    <cmt>0</cmt>
+    <desc>LADI
+[00:1C:F0:89:AF:89]
+None
+RSSI  :-77dBm
+Quality  26%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:89:AF:89</MAC>
+      <SSID>LADI</SSID>
+      <RSSI>-77</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>26</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-72dBm
+Quality  36%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>0</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-80dBm
+Quality  20%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC_SM [00:11:95:F5:BA:95]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC_SM
+[00:11:95:F5:BA:95]
+None
+RSSI  :-84dBm
+Quality  12%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:95</MAC>
+      <SSID>USPNetCISC_SM</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-63dBm
+Quality  70%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-63</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>70</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-58dBm
+Quality  80%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-58</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>80</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-49dBm
+Quality  97%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-49</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-75dBm
+Quality  30%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-75</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>30</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-87dBm
+Quality  97%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LADI [00:1C:F0:89:AF:89]</name>
+    <cmt>0</cmt>
+    <desc>LADI
+[00:1C:F0:89:AF:89]
+None
+RSSI  :-77dBm
+Quality  26%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:89:AF:89</MAC>
+      <SSID>LADI</SSID>
+      <RSSI>-77</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>26</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-66dBm
+Quality  64%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-66</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>64</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC_SM [00:11:95:F5:BA:95]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC_SM
+[00:11:95:F5:BA:95]
+None
+RSSI  :-84dBm
+Quality  12%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:95</MAC>
+      <SSID>USPNetCISC_SM</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>0</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-81dBm
+Quality  18%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-81</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>18</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-75dBm
+Quality  30%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:51</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-75</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>30</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:23:33:7F:53:90]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:23:33:7F:53:90]
+None
+RSSI  :-55dBm
+Quality  97%
+Channel 10
+Speed (kph) 0
+10/08/2010 09:12:52</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:33:7F:53:90</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-55</RSSI>
+      <ChannelID>10</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC - Opera??o [00:11:95:F5:BA:89]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC - Opera??o
+[00:11:95:F5:BA:89]
+None
+RSSI  :-57dBm
+Quality  80%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:52</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:89</MAC>
+      <SSID>USPNetCISC - Opera??o</SSID>
+      <RSSI>-57</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>80</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>gbdiwifi [00:21:29:77:94:4D]</name>
+    <cmt>0</cmt>
+    <desc>gbdiwifi
+[00:21:29:77:94:4D]
+RSNA-CCMP
+RSSI  :-75dBm
+Quality  30%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:52</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:21:29:77:94:4D</MAC>
+      <SSID>gbdiwifi</SSID>
+      <RSSI>-75</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>30</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>ICMC [00:13:46:9B:AD:65]</name>
+    <cmt>0</cmt>
+    <desc>ICMC
+[00:13:46:9B:AD:65]
+None
+RSSI  :-82dBm
+Quality  97%
+Channel 11
+Speed (kph) 0
+10/08/2010 09:12:52</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:13:46:9B:AD:65</MAC>
+      <SSID>ICMC</SSID>
+      <RSSI>-82</RSSI>
+      <ChannelID>11</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>97</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LADI [00:1C:F0:89:AF:89]</name>
+    <cmt>0</cmt>
+    <desc>LADI
+[00:1C:F0:89:AF:89]
+None
+RSSI  :-72dBm
+Quality  36%
+Channel 1
+Speed (kph) 0
+10/08/2010 09:12:52</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:89:AF:89</MAC>
+      <SSID>LADI</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LabES-WIFI [00:17:9A:25:0A:68]</name>
+    <cmt>0</cmt>
+    <desc>LabES-WIFI
+[00:17:9A:25:0A:68]
+WEP
+RSSI  :-79dBm
+Quality  22%
+Channel 5
+Speed (kph) 0
+10/08/2010 09:12:52</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:17:9A:25:0A:68</MAC>
+      <SSID>LabES-WIFI</SSID>
+      <RSSI>-79</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>22</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>USPNetCISC_SM [00:11:95:F5:BA:95]</name>
+    <cmt>0</cmt>
+    <desc>USPNetCISC_SM
+[00:11:95:F5:BA:95]
+None
+RSSI  :-80dBm
+Quality  20%
+Channel 6
+Speed (kph) 0
+10/08/2010 09:12:52</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:11:95:F5:BA:95</MAC>
+      <SSID>USPNetCISC_SM</SSID>
+      <RSSI>-80</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>20</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-22,007146" lon="-47,894812" xmlns="">
+    <ele>0</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>0</geoidheight>
+    <name>LCR [00:1B:11:4A:79:79]</name>
+    <cmt>0</cmt>
+    <desc>LCR
+[00:1B:11:4A:79:79]
+WEP
+RSSI  :-75dBm
+Quality  30%
+Channel 8
+Speed (kph) 0
+10/08/2010 09:12:52</desc>
+    <fix>none</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1B:11:4A:79:79</MAC>
+      <SSID>LCR</SSID>
+      <RSSI>-75</RSSI>
+      <ChannelID>8</ChannelID>
+      <privacy>WEP</privacy>
+      <signalQuality>30</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+</gpx>

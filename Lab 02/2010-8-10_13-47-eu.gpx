@@ -1,0 +1,3093 @@
+<?xml version="1.0"?>
+<gpx version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd">
+  <wpt lat="-21,990987" lon="-47,8693306666667" xmlns="">
+    <ele>145,4</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,91</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-63dBm
+Quality  60%
+Channel 2
+Speed (kph) 2,91
+10/08/2010 13:47:27</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-63</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>60</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,990987" lon="-47,8693306666667" xmlns="">
+    <ele>145,4</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,91</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 2,91
+10/08/2010 13:47:27</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,990987" lon="-47,8693306666667" xmlns="">
+    <ele>145,4</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>D7-SCWBB07-02 [00:02:2D:AA:A6:F9]</name>
+    <cmt>2,91</cmt>
+    <desc>D7-SCWBB07-02
+[00:02:2D:AA:A6:F9]
+None
+RSSI  :-84dBm
+Quality  12%
+Channel 9
+Speed (kph) 2,91
+10/08/2010 13:47:27</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:02:2D:AA:A6:F9</MAC>
+      <SSID>D7-SCWBB07-02</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>9</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909928333333" lon="-47,8693458333333" xmlns="">
+    <ele>145,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,81</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-72dBm
+Quality  36%
+Channel 2
+Speed (kph) 2,81
+10/08/2010 13:47:28</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909928333333" lon="-47,8693458333333" xmlns="">
+    <ele>145,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,81</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 2,81
+10/08/2010 13:47:28</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909928333333" lon="-47,8693458333333" xmlns="">
+    <ele>145,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>2,81</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-84dBm
+Quality  12%
+Channel 6
+Speed (kph) 2,81
+10/08/2010 13:47:28</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909928333333" lon="-47,8693458333333" xmlns="">
+    <ele>145,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>D7-SCWBB07-02 [00:02:2D:AA:A6:F9]</name>
+    <cmt>2,81</cmt>
+    <desc>D7-SCWBB07-02
+[00:02:2D:AA:A6:F9]
+None
+RSSI  :-88dBm
+Quality  4%
+Channel 9
+Speed (kph) 2,81
+10/08/2010 13:47:28</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:02:2D:AA:A6:F9</MAC>
+      <SSID>D7-SCWBB07-02</SSID>
+      <RSSI>-88</RSSI>
+      <ChannelID>9</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>4</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909941666667" lon="-47,86935" xmlns="">
+    <ele>145,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,8</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  36%
+Channel 2
+Speed (kph) 2,8
+10/08/2010 13:47:28</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909941666667" lon="-47,86935" xmlns="">
+    <ele>145,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,8</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 2,8
+10/08/2010 13:47:28</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909941666667" lon="-47,86935" xmlns="">
+    <ele>145,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>2,8</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-86dBm
+Quality  8%
+Channel 6
+Speed (kph) 2,8
+10/08/2010 13:47:28</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>8</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909941666667" lon="-47,86935" xmlns="">
+    <ele>145,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>SCWire [00:23:CD:1B:73:08]</name>
+    <cmt>2,8</cmt>
+    <desc>SCWire
+[00:23:CD:1B:73:08]
+RSNA-CCMP
+RSSI  :-87dBm
+Quality  6%
+Channel 1
+Speed (kph) 2,8
+10/08/2010 13:47:28</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:CD:1B:73:08</MAC>
+      <SSID>SCWire</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909965" lon="-47,8693573333333" xmlns="">
+    <ele>145,2</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,73</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-72dBm
+Quality  36%
+Channel 2
+Speed (kph) 2,73
+10/08/2010 13:47:29</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909965" lon="-47,8693573333333" xmlns="">
+    <ele>145,2</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,73</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 2,73
+10/08/2010 13:47:29</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909965" lon="-47,8693573333333" xmlns="">
+    <ele>145,2</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>2,73</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-85dBm
+Quality  10%
+Channel 6
+Speed (kph) 2,73
+10/08/2010 13:47:29</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9909965" lon="-47,8693573333333" xmlns="">
+    <ele>145,2</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>SCWire [00:23:CD:1B:73:08]</name>
+    <cmt>2,73</cmt>
+    <desc>SCWire
+[00:23:CD:1B:73:08]
+RSNA-CCMP
+RSSI  :-85dBm
+Quality  10%
+Channel 1
+Speed (kph) 2,73
+10/08/2010 13:47:29</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:CD:1B:73:08</MAC>
+      <SSID>SCWire</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910036666667" lon="-47,8693705" xmlns="">
+    <ele>145,1</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,78</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  36%
+Channel 2
+Speed (kph) 2,78
+10/08/2010 13:47:30</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910036666667" lon="-47,8693705" xmlns="">
+    <ele>145,1</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>2,78</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-86dBm
+Quality  8%
+Channel 6
+Speed (kph) 2,78
+10/08/2010 13:47:30</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>8</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910036666667" lon="-47,8693705" xmlns="">
+    <ele>145,1</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,78</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 2,78
+10/08/2010 13:47:30</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910065" lon="-47,8693738333333" xmlns="">
+    <ele>145</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,87</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  36%
+Channel 2
+Speed (kph) 2,87
+10/08/2010 13:47:30</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910065" lon="-47,8693738333333" xmlns="">
+    <ele>145</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,87</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-71dBm
+Quality  38%
+Channel 6
+Speed (kph) 2,87
+10/08/2010 13:47:30</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910065" lon="-47,8693738333333" xmlns="">
+    <ele>145</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>2,87</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-85dBm
+Quality  10%
+Channel 6
+Speed (kph) 2,87
+10/08/2010 13:47:30</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910056666667" lon="-47,869371" xmlns="">
+    <ele>145</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,84</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-72dBm
+Quality  36%
+Channel 2
+Speed (kph) 2,84
+10/08/2010 13:47:31</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910056666667" lon="-47,869371" xmlns="">
+    <ele>145</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>2,84</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-82dBm
+Quality  16%
+Channel 5
+Speed (kph) 2,84
+10/08/2010 13:47:31</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-82</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>16</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910056666667" lon="-47,869371" xmlns="">
+    <ele>145</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,84</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 2,84
+10/08/2010 13:47:31</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910056666667" lon="-47,869371" xmlns="">
+    <ele>145</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>2,84</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-85dBm
+Quality  10%
+Channel 6
+Speed (kph) 2,84
+10/08/2010 13:47:31</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910103333333" lon="-47,8693818333333" xmlns="">
+    <ele>144,9</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,8</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-71dBm
+Quality  36%
+Channel 2
+Speed (kph) 2,8
+10/08/2010 13:47:31</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910103333333" lon="-47,8693818333333" xmlns="">
+    <ele>144,9</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>2,8</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-83dBm
+Quality  14%
+Channel 5
+Speed (kph) 2,8
+10/08/2010 13:47:31</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-83</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>14</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910103333333" lon="-47,8693818333333" xmlns="">
+    <ele>144,9</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>2,8</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-84dBm
+Quality  12%
+Channel 6
+Speed (kph) 2,8
+10/08/2010 13:47:31</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910103333333" lon="-47,8693818333333" xmlns="">
+    <ele>144,9</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,8</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 2,8
+10/08/2010 13:47:31</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910103333333" lon="-47,8693818333333" xmlns="">
+    <ele>144,9</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>SCWire [00:23:CD:1B:73:08]</name>
+    <cmt>2,8</cmt>
+    <desc>SCWire
+[00:23:CD:1B:73:08]
+RSNA-CCMP
+RSSI  :-85dBm
+Quality  10%
+Channel 1
+Speed (kph) 2,8
+10/08/2010 13:47:31</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:CD:1B:73:08</MAC>
+      <SSID>SCWire</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910098333333" lon="-47,8693786666667" xmlns="">
+    <ele>144,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,75</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-75dBm
+Quality  36%
+Channel 2
+Speed (kph) 2,75
+10/08/2010 13:47:32</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-75</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910098333333" lon="-47,8693786666667" xmlns="">
+    <ele>144,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>2,75</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-83dBm
+Quality  14%
+Channel 5
+Speed (kph) 2,75
+10/08/2010 13:47:32</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-83</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>14</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910098333333" lon="-47,8693786666667" xmlns="">
+    <ele>144,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,75</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 2,75
+10/08/2010 13:47:32</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910195" lon="-47,869398" xmlns="">
+    <ele>144,7</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>2,79</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-85dBm
+Quality  10%
+Channel 6
+Speed (kph) 2,79
+10/08/2010 13:47:33</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910195" lon="-47,869398" xmlns="">
+    <ele>144,7</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,79</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-69dBm
+Quality  50%
+Channel 6
+Speed (kph) 2,79
+10/08/2010 13:47:33</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>50</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910195" lon="-47,869398" xmlns="">
+    <ele>144,7</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>D7-SCWBB07-02 [00:02:2D:AA:A6:F9]</name>
+    <cmt>2,79</cmt>
+    <desc>D7-SCWBB07-02
+[00:02:2D:AA:A6:F9]
+None
+RSSI  :-86dBm
+Quality  8%
+Channel 9
+Speed (kph) 2,79
+10/08/2010 13:47:33</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:02:2D:AA:A6:F9</MAC>
+      <SSID>D7-SCWBB07-02</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>9</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>8</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910195" lon="-47,869398" xmlns="">
+    <ele>144,7</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,79</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-72dBm
+Quality  36%
+Channel 2
+Speed (kph) 2,79
+10/08/2010 13:47:33</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910195" lon="-47,869398" xmlns="">
+    <ele>144,7</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>SCWire [00:23:CD:1B:73:08]</name>
+    <cmt>2,79</cmt>
+    <desc>SCWire
+[00:23:CD:1B:73:08]
+RSNA-CCMP
+RSSI  :-85dBm
+Quality  10%
+Channel 1
+Speed (kph) 2,79
+10/08/2010 13:47:33</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:CD:1B:73:08</MAC>
+      <SSID>SCWire</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910253333333" lon="-47,8694086666667" xmlns="">
+    <ele>144,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,93</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  36%
+Channel 2
+Speed (kph) 2,93
+10/08/2010 13:47:33</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>36</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910253333333" lon="-47,8694086666667" xmlns="">
+    <ele>144,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,93</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-69dBm
+Quality  50%
+Channel 6
+Speed (kph) 2,93
+10/08/2010 13:47:33</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>50</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910253333333" lon="-47,8694086666667" xmlns="">
+    <ele>144,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>2,93</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-88dBm
+Quality  4%
+Channel 6
+Speed (kph) 2,93
+10/08/2010 13:47:33</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-88</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>4</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910253333333" lon="-47,8694086666667" xmlns="">
+    <ele>144,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>D7-SCWBB07-02 [00:02:2D:AA:A6:F9]</name>
+    <cmt>2,93</cmt>
+    <desc>D7-SCWBB07-02
+[00:02:2D:AA:A6:F9]
+None
+RSSI  :-86dBm
+Quality  8%
+Channel 9
+Speed (kph) 2,93
+10/08/2010 13:47:33</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:02:2D:AA:A6:F9</MAC>
+      <SSID>D7-SCWBB07-02</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>9</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>8</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910253333333" lon="-47,8694086666667" xmlns="">
+    <ele>144,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>SCWire [00:23:CD:1B:73:08]</name>
+    <cmt>2,93</cmt>
+    <desc>SCWire
+[00:23:CD:1B:73:08]
+RSNA-CCMP
+RSSI  :-85dBm
+Quality  10%
+Channel 1
+Speed (kph) 2,93
+10/08/2010 13:47:33</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:CD:1B:73:08</MAC>
+      <SSID>SCWire</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910291666667" lon="-47,8694148333333" xmlns="">
+    <ele>144,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,05</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-71dBm
+Quality  38%
+Channel 2
+Speed (kph) 3,05
+10/08/2010 13:47:34</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910291666667" lon="-47,8694148333333" xmlns="">
+    <ele>144,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Jaqueline [00:26:5A:5E:8D:CC]</name>
+    <cmt>3,05</cmt>
+    <desc>Jaqueline
+[00:26:5A:5E:8D:CC]
+RSNA-CCMP
+RSSI  :-89dBm
+Quality  2%
+Channel 4
+Speed (kph) 3,05
+10/08/2010 13:47:34</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:26:5A:5E:8D:CC</MAC>
+      <SSID>Jaqueline</SSID>
+      <RSSI>-89</RSSI>
+      <ChannelID>4</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>2</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910291666667" lon="-47,8694148333333" xmlns="">
+    <ele>144,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,05</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-71dBm
+Quality  38%
+Channel 6
+Speed (kph) 3,05
+10/08/2010 13:47:34</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910291666667" lon="-47,8694148333333" xmlns="">
+    <ele>144,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,05</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-85dBm
+Quality  10%
+Channel 6
+Speed (kph) 3,05
+10/08/2010 13:47:34</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910291666667" lon="-47,8694148333333" xmlns="">
+    <ele>144,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>D7-SCWBB07-02 [00:02:2D:AA:A6:F9]</name>
+    <cmt>3,05</cmt>
+    <desc>D7-SCWBB07-02
+[00:02:2D:AA:A6:F9]
+None
+RSSI  :-85dBm
+Quality  10%
+Channel 9
+Speed (kph) 3,05
+10/08/2010 13:47:34</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:02:2D:AA:A6:F9</MAC>
+      <SSID>D7-SCWBB07-02</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>9</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910335" lon="-47,8694235" xmlns="">
+    <ele>144,5</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,08</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-71dBm
+Quality  38%
+Channel 2
+Speed (kph) 3,08
+10/08/2010 13:47:34</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910335" lon="-47,8694235" xmlns="">
+    <ele>144,5</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,08</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-85dBm
+Quality  10%
+Channel 6
+Speed (kph) 3,08
+10/08/2010 13:47:34</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910335" lon="-47,8694235" xmlns="">
+    <ele>144,5</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,08</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3,08
+10/08/2010 13:47:34</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910363333333" lon="-47,8694251666667" xmlns="">
+    <ele>144,5</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,08</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-71dBm
+Quality  38%
+Channel 6
+Speed (kph) 3,08
+10/08/2010 13:47:35</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,991049" lon="-47,8694503333333" xmlns="">
+    <ele>144,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,18</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-71dBm
+Quality  38%
+Channel 2
+Speed (kph) 3,18
+10/08/2010 13:47:36</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,991049" lon="-47,8694503333333" xmlns="">
+    <ele>144,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,18</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-69dBm
+Quality  50%
+Channel 6
+Speed (kph) 3,18
+10/08/2010 13:47:36</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>50</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,991049" lon="-47,8694503333333" xmlns="">
+    <ele>144,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,18</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-83dBm
+Quality  14%
+Channel 6
+Speed (kph) 3,18
+10/08/2010 13:47:36</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-83</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>14</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910535" lon="-47,8694591666667" xmlns="">
+    <ele>144,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,32</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-69dBm
+Quality  38%
+Channel 2
+Speed (kph) 3,32
+10/08/2010 13:47:36</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910535" lon="-47,8694591666667" xmlns="">
+    <ele>144,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,32</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3,32
+10/08/2010 13:47:36</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910535" lon="-47,8694591666667" xmlns="">
+    <ele>144,3</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,32</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-84dBm
+Quality  12%
+Channel 6
+Speed (kph) 3,32
+10/08/2010 13:47:36</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910605" lon="-47,8694728333333" xmlns="">
+    <ele>144,2</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,39</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-76dBm
+Quality  38%
+Channel 2
+Speed (kph) 3,39
+10/08/2010 13:47:37</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-76</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910605" lon="-47,8694728333333" xmlns="">
+    <ele>144,2</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>3,39</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-81dBm
+Quality  18%
+Channel 5
+Speed (kph) 3,39
+10/08/2010 13:47:37</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-81</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>18</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910605" lon="-47,8694728333333" xmlns="">
+    <ele>144,2</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,39</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3,39
+10/08/2010 13:47:37</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910605" lon="-47,8694728333333" xmlns="">
+    <ele>144,2</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>SCWire [00:23:CD:1B:73:08]</name>
+    <cmt>3,39</cmt>
+    <desc>SCWire
+[00:23:CD:1B:73:08]
+RSNA-CCMP
+RSSI  :-86dBm
+Quality  8%
+Channel 1
+Speed (kph) 3,39
+10/08/2010 13:47:37</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:CD:1B:73:08</MAC>
+      <SSID>SCWire</SSID>
+      <RSSI>-86</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>8</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910616666667" lon="-47,869475" xmlns="">
+    <ele>144,1</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,45</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-72dBm
+Quality  38%
+Channel 2
+Speed (kph) 3,45
+10/08/2010 13:47:38</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910616666667" lon="-47,869475" xmlns="">
+    <ele>144,1</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>3,45</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-83dBm
+Quality  14%
+Channel 5
+Speed (kph) 3,45
+10/08/2010 13:47:38</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-83</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>14</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910616666667" lon="-47,869475" xmlns="">
+    <ele>144,1</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,45</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-85dBm
+Quality  10%
+Channel 6
+Speed (kph) 3,45
+10/08/2010 13:47:38</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910616666667" lon="-47,869475" xmlns="">
+    <ele>144,1</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,45</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3,45
+10/08/2010 13:47:38</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910616666667" lon="-47,869475" xmlns="">
+    <ele>144,1</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>SCWire [00:23:CD:1B:73:08]</name>
+    <cmt>3,45</cmt>
+    <desc>SCWire
+[00:23:CD:1B:73:08]
+RSNA-CCMP
+RSSI  :-87dBm
+Quality  6%
+Channel 1
+Speed (kph) 3,45
+10/08/2010 13:47:38</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:CD:1B:73:08</MAC>
+      <SSID>SCWire</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910643333333" lon="-47,8694791666667" xmlns="">
+    <ele>144</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,45</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-73dBm
+Quality  38%
+Channel 2
+Speed (kph) 3,45
+10/08/2010 13:47:38</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-73</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910643333333" lon="-47,8694791666667" xmlns="">
+    <ele>144</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,45</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3,45
+10/08/2010 13:47:38</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910643333333" lon="-47,8694791666667" xmlns="">
+    <ele>144</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>C7-SCWBB07-02 [00:20:A6:57:DA:61]</name>
+    <cmt>3,45</cmt>
+    <desc>C7-SCWBB07-02
+[00:20:A6:57:DA:61]
+None
+RSSI  :-82dBm
+Quality  16%
+Channel 5
+Speed (kph) 3,45
+10/08/2010 13:47:38</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:20:A6:57:DA:61</MAC>
+      <SSID>C7-SCWBB07-02</SSID>
+      <RSSI>-82</RSSI>
+      <ChannelID>5</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>16</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910643333333" lon="-47,8694791666667" xmlns="">
+    <ele>144</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,45</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-84dBm
+Quality  12%
+Channel 6
+Speed (kph) 3,45
+10/08/2010 13:47:38</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910676666667" lon="-47,8694838333333" xmlns="">
+    <ele>144</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,36</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-85dBm
+Quality  10%
+Channel 6
+Speed (kph) 3,36
+10/08/2010 13:47:39</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910676666667" lon="-47,8694838333333" xmlns="">
+    <ele>144</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,36</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3,36
+10/08/2010 13:47:39</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910676666667" lon="-47,8694838333333" xmlns="">
+    <ele>144</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,36</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-81dBm
+Quality  38%
+Channel 2
+Speed (kph) 3,36
+10/08/2010 13:47:39</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-81</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910731666667" lon="-47,8695013333333" xmlns="">
+    <ele>143,9</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,25</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-73dBm
+Quality  38%
+Channel 2
+Speed (kph) 3,25
+10/08/2010 13:47:39</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-73</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910731666667" lon="-47,8695013333333" xmlns="">
+    <ele>143,9</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,25</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3,25
+10/08/2010 13:47:39</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910731666667" lon="-47,8695013333333" xmlns="">
+    <ele>143,9</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>D7-SCWBB07-02 [00:02:2D:AA:A6:F9]</name>
+    <cmt>3,25</cmt>
+    <desc>D7-SCWBB07-02
+[00:02:2D:AA:A6:F9]
+None
+RSSI  :-87dBm
+Quality  6%
+Channel 9
+Speed (kph) 3,25
+10/08/2010 13:47:39</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:02:2D:AA:A6:F9</MAC>
+      <SSID>D7-SCWBB07-02</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>9</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910748333333" lon="-47,8695101666667" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,22</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-73dBm
+Quality  32%
+Channel 2
+Speed (kph) 3,22
+10/08/2010 13:47:40</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-73</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>32</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910748333333" lon="-47,8695101666667" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Jaqueline [00:26:5A:5E:8D:CC]</name>
+    <cmt>3,22</cmt>
+    <desc>Jaqueline
+[00:26:5A:5E:8D:CC]
+RSNA-CCMP
+RSSI  :-91dBm
+Quality  0%
+Channel 4
+Speed (kph) 3,22
+10/08/2010 13:47:40</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:26:5A:5E:8D:CC</MAC>
+      <SSID>Jaqueline</SSID>
+      <RSSI>-91</RSSI>
+      <ChannelID>4</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>0</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910748333333" lon="-47,8695101666667" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,22</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-69dBm
+Quality  50%
+Channel 6
+Speed (kph) 3,22
+10/08/2010 13:47:40</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>50</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910748333333" lon="-47,8695101666667" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,22</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-84dBm
+Quality  12%
+Channel 6
+Speed (kph) 3,22
+10/08/2010 13:47:40</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910748333333" lon="-47,8695101666667" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>D7-SCWBB07-02 [00:02:2D:AA:A6:F9]</name>
+    <cmt>3,22</cmt>
+    <desc>D7-SCWBB07-02
+[00:02:2D:AA:A6:F9]
+None
+RSSI  :-87dBm
+Quality  6%
+Channel 9
+Speed (kph) 3,22
+10/08/2010 13:47:40</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:02:2D:AA:A6:F9</MAC>
+      <SSID>D7-SCWBB07-02</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>9</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910738333333" lon="-47,869515" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,22</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-73dBm
+Quality  32%
+Channel 2
+Speed (kph) 3,22
+10/08/2010 13:47:41</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-73</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>32</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910738333333" lon="-47,869515" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,22</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3,22
+10/08/2010 13:47:41</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910738333333" lon="-47,869515" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,22</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-85dBm
+Quality  10%
+Channel 6
+Speed (kph) 3,22
+10/08/2010 13:47:41</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910706666667" lon="-47,869514" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,21</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-69dBm
+Quality  32%
+Channel 2
+Speed (kph) 3,21
+10/08/2010 13:47:41</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-69</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>32</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910706666667" lon="-47,869514" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,21</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3,21
+10/08/2010 13:47:41</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910706666667" lon="-47,869514" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,21</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-87dBm
+Quality  6%
+Channel 6
+Speed (kph) 3,21
+10/08/2010 13:47:41</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910706666667" lon="-47,869514" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>D7-SCWBB07-02 [00:02:2D:AA:A6:F9]</name>
+    <cmt>3,21</cmt>
+    <desc>D7-SCWBB07-02
+[00:02:2D:AA:A6:F9]
+None
+RSSI  :-89dBm
+Quality  2%
+Channel 9
+Speed (kph) 3,21
+10/08/2010 13:47:41</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:02:2D:AA:A6:F9</MAC>
+      <SSID>D7-SCWBB07-02</SSID>
+      <RSSI>-89</RSSI>
+      <ChannelID>9</ChannelID>
+      <privacy>None</privacy>
+      <signalQuality>2</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/11</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910706666667" lon="-47,869514" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>SCWire [00:23:CD:1B:73:08]</name>
+    <cmt>3,21</cmt>
+    <desc>SCWire
+[00:23:CD:1B:73:08]
+RSNA-CCMP
+RSSI  :-85dBm
+Quality  10%
+Channel 1
+Speed (kph) 3,21
+10/08/2010 13:47:41</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:CD:1B:73:08</MAC>
+      <SSID>SCWire</SSID>
+      <RSSI>-85</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>10</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910706666667" lon="-47,8695166666667" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3,06</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  32%
+Channel 2
+Speed (kph) 3,06
+10/08/2010 13:47:42</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>32</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910706666667" lon="-47,8695166666667" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Jaqueline [00:26:5A:5E:8D:CC]</name>
+    <cmt>3,06</cmt>
+    <desc>Jaqueline
+[00:26:5A:5E:8D:CC]
+RSNA-CCMP
+RSSI  :-89dBm
+Quality  2%
+Channel 4
+Speed (kph) 3,06
+10/08/2010 13:47:42</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:26:5A:5E:8D:CC</MAC>
+      <SSID>Jaqueline</SSID>
+      <RSSI>-89</RSSI>
+      <ChannelID>4</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>2</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910706666667" lon="-47,8695166666667" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3,06</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3,06
+10/08/2010 13:47:42</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910706666667" lon="-47,8695166666667" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3,06</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-84dBm
+Quality  12%
+Channel 6
+Speed (kph) 3,06
+10/08/2010 13:47:42</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910706666667" lon="-47,8695166666667" xmlns="">
+    <ele>143,8</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>SCWire [00:23:CD:1B:73:08]</name>
+    <cmt>3,06</cmt>
+    <desc>SCWire
+[00:23:CD:1B:73:08]
+RSNA-CCMP
+RSSI  :-87dBm
+Quality  6%
+Channel 1
+Speed (kph) 3,06
+10/08/2010 13:47:42</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:CD:1B:73:08</MAC>
+      <SSID>SCWire</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>1</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54/65</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910701666667" lon="-47,8695195" xmlns="">
+    <ele>143,7</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>3</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-70dBm
+Quality  40%
+Channel 6
+Speed (kph) 3
+10/08/2010 13:47:42</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-70</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>40</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910701666667" lon="-47,8695195" xmlns="">
+    <ele>143,7</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>3</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-87dBm
+Quality  6%
+Channel 6
+Speed (kph) 3
+10/08/2010 13:47:42</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-87</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>6</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910701666667" lon="-47,8695195" xmlns="">
+    <ele>143,7</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>3</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-73dBm
+Quality  32%
+Channel 2
+Speed (kph) 3
+10/08/2010 13:47:42</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-73</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>32</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910736666667" lon="-47,8695276666667" xmlns="">
+    <ele>143,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,92</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-72dBm
+Quality  32%
+Channel 2
+Speed (kph) 2,92
+10/08/2010 13:47:43</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-72</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>32</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910736666667" lon="-47,8695276666667" xmlns="">
+    <ele>143,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,92</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-71dBm
+Quality  38%
+Channel 6
+Speed (kph) 2,92
+10/08/2010 13:47:43</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910736666667" lon="-47,8695276666667" xmlns="">
+    <ele>143,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Rep Eta [00:23:69:C2:D8:5B]</name>
+    <cmt>2,92</cmt>
+    <desc>Rep Eta
+[00:23:69:C2:D8:5B]
+WPA-TKIP
+RSSI  :-84dBm
+Quality  12%
+Channel 6
+Speed (kph) 2,92
+10/08/2010 13:47:43</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:23:69:C2:D8:5B</MAC>
+      <SSID>Rep Eta</SSID>
+      <RSSI>-84</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>WPA-TKIP</privacy>
+      <signalQuality>12</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910786666667" lon="-47,8695355" xmlns="">
+    <ele>143,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>net0304 [00:1C:F0:C0:5F:79]</name>
+    <cmt>2,95</cmt>
+    <desc>net0304
+[00:1C:F0:C0:5F:79]
+RSNA-CCMP
+RSSI  :-74dBm
+Quality  32%
+Channel 2
+Speed (kph) 2,95
+10/08/2010 13:47:44</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1C:F0:C0:5F:79</MAC>
+      <SSID>net0304</SSID>
+      <RSSI>-74</RSSI>
+      <ChannelID>2</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>32</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+  <wpt lat="-21,9910786666667" lon="-47,8695355" xmlns="">
+    <ele>143,6</ele>
+    <time>1-01-01T00:00:0.0Z</time>
+    <geoidheight>-6,9</geoidheight>
+    <name>Itumbiara [00:1E:58:10:B8:8A]</name>
+    <cmt>2,95</cmt>
+    <desc>Itumbiara
+[00:1E:58:10:B8:8A]
+RSNA-CCMP
+RSSI  :-71dBm
+Quality  38%
+Channel 6
+Speed (kph) 2,95
+10/08/2010 13:47:44</desc>
+    <fix>dgps</fix>
+    <sat>0</sat>
+    <hdop>0</hdop>
+    <vdop>0</vdop>
+    <pdop>0</pdop>
+    <extensions>
+      <MAC>00:1E:58:10:B8:8A</MAC>
+      <SSID>Itumbiara</SSID>
+      <RSSI>-71</RSSI>
+      <ChannelID>6</ChannelID>
+      <privacy>RSNA-CCMP</privacy>
+      <signalQuality>38</signalQuality>
+      <networkType>Infrastructure</networkType>
+      <rates>1/2/5,5/6/9/11/12/18/24/36/48/54</rates>
+    </extensions>
+  </wpt>
+</gpx>
