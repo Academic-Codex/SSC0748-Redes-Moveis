@@ -3,8 +3,8 @@ name: Update & Publish (README.md)
 on:
   push:
     branches: [ main ]
-    paths-ignore:
-      - ".github/scripts/repo.yml"
+    paths:
+      - ".github/placeholders/readme.yml"
   workflow_dispatch:
   repository_dispatch:
     types: [ readme-template-updated ]
