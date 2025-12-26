@@ -1,17 +1,12 @@
-REPO_TAGLINE: Quantum simulation • electronic structure • many-body systems
-
+REPO_TAGLINE: Wireless & mobile networks • mobility • real-world protocols
 ASSETS_DIR: .github/readme
-
 CTA_TEXT: Access the full course website
-THEME: library
+THEME: coding
+SITE_URL: https://academic-codex.github.io/SSC0748-Redes-Moveis
 
-SITE_URL: https://academic-codex.github.io/PGF5002-Mecanica-Quantica-II
-
-BG_1: "#000000"
-BG_2: "#ffffff"
-
-TEXT_MAIN: "#fff000"
-TEXT_MUTED: "#303030"
-ACCENT: "#fff000"
-
-CARD_RADIUS: "5"
+BG_1: "#0B1220"
+BG_2: "#2A183D"
+TEXT_MAIN: "#F7F3FF"
+TEXT_MUTED: "#D8CCF2"
+ACCENT: "#818CF8"
+CARD_RADIUS: "18"
