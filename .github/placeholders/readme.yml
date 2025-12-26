@@ -1,0 +1,17 @@
+REPO_TAGLINE: Quantum simulation • electronic structure • many-body systems
+
+ASSETS_DIR: .github/readme
+
+CTA_TEXT: Access the full course website
+THEME: library
+
+SITE_URL: https://academic-codex.github.io/PGF5002-Mecanica-Quantica-II
+
+BG_1: "#000000"
+BG_2: "#ffffff"
+
+TEXT_MAIN: "#fff000"
+TEXT_MUTED: "#303030"
+ACCENT: "#fff000"
+
+CARD_RADIUS: "5"
