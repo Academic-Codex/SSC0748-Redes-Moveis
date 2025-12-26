@@ -1,57 +1,32 @@
-<svg data-build="2025-12-26T02:36:03.805341Z" width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-            <stop offset="0%" stop-color="#0B1220" />
-            <stop offset="100%" stop-color="#2A183D" />
-        </linearGradient>
-    </defs>
+<svg data-build="2025-12-26T02:38:19.533799Z" width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1220" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+  </defs>
 
-    <!-- Card -->
-    <rect
-        width="1200"
-        height="260"
-        rx="18"
-        fill="url(#g)"
-    />
+  <!-- Card -->
+  <rect width="1200" height="260" rx="18" fill="url(#g)" />
 
-    <!-- Title -->
-    <text
-        x="50%"
-        y="105"
-        text-anchor="middle"
-        font-size="42"
-        font-family="Inter, Arial, sans-serif"
-        font-weight="600"
-    >
-        <tspan fill="#F7F3FF">
-            SSC0748 — Redes Móveis
-        </tspan>
-    </text>
+  <!-- Title -->
+  <text x="50%" y="105" text-anchor="middle"
+    font-size="42" fill="#e5e7eb"
+    font-family="Inter, Arial, sans-serif" font-weight="600">
+    SSC0748 — Redes Móveis
+  </text>
 
-    <!-- Description -->
-    <text
-        x="50%"
-        y="145"
-        text-anchor="middle"
-        font-size="18"
-        font-family="Inter, Arial, sans-serif"
-    >
-        <tspan fill="#D8CCF2">
-            Wireless and mobile networks • mobility • communication protocols
-        </tspan>
-    </text>
+  <!-- Description -->
+  <text x="50%" y="145" text-anchor="middle"
+    font-size="18" fill="#9ca3af"
+    font-family="Inter, Arial, sans-serif">
+    Wireless and mobile networks • mobility • communication protocols
+  </text>
 
-    <!-- CTA -->
-    <text
-        x="50%"
-        y="185"
-        text-anchor="middle"
-        font-size="18"
-        font-family="Inter, Arial, sans-serif"
-        font-weight="500"
-    >
-        <tspan fill="#818CF8">
-            → Access the full course website
-        </tspan>
-    </text>
+  <!-- CTA -->
+  <text x="50%" y="185" text-anchor="middle"
+    font-size="18" fill="#93c5fd"
+    font-family="Inter, Arial, sans-serif" font-weight="500">
+    → Access the full course website
+  </text>
 </svg>
