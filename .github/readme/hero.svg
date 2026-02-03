@@ -1,4 +1,4 @@
-<svg data-build="2026-01-08T01:41:17.261201Z" width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+<svg data-build="2026-02-03T01:41:33.843252Z" width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#0b1220" />
@@ -13,7 +13,7 @@
   <text x="50%" y="105" text-anchor="middle"
     font-size="42" fill="#e5e7eb"
     font-family="Inter, Arial, sans-serif" font-weight="600">
-    SSC0748 — Redes Móveis
+    SSC0748 — Mobile Networks
   </text>
 
   <!-- Description -->
