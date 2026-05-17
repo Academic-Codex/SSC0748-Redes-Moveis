@@ -4,8 +4,11 @@
 
 /* container principal da página Studies */
 .main-wide {
-  width: 90%;
-  margin: 32px auto;
+  width: auto;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  margin-left: 4.5vw;
+  margin-right: 2vw;
   padding: 0 0 16px 0;
 }
 
@@ -221,6 +224,13 @@ a.file-notebook.is-active {
   width: 20px;
   height: 20px;
 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0;
+  margin: 0;
+
   border: 0;
   border-radius: 6px;
 
@@ -229,6 +239,7 @@ a.file-notebook.is-active {
 
   font-size: 13px;
   line-height: 1;
+
   cursor: pointer;
 }
 
